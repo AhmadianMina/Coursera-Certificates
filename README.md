@@ -8,3 +8,10 @@
   - Deep Learning (Specialization)
   - Game Theory
   - Machine Learning (Specialization)
+  - Mathematics for Machine Learning (Specialization)
+  - Microsoft Azure AI Fundamentals AI-900 Exam Prep (Specialization)
+  - Python for Everybody (Specialization)
+- **Electrical Engineering**
+  - An Introduction to Programming the Internet of Things (Specialization)
+  - Image Processing for Engineering and Science (Specialization)
+  - MATLAB Programming for Engineers and Scientists (Specialization)
