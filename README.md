@@ -1,8 +1,8 @@
 # Coursera-Certificates
-**Biomedical**
+**1. Biomedical**
   - Computational Neuroscience
   - Neuroscience and Neuroimaging (Specialization)
-**Computer Science**
+**2. Computer Science**
   - Blockchain (Specialization)
   - Cryptography
   - Deep Learning (Specialization)
